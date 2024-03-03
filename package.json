@@ -4,8 +4,7 @@
   "description": "Backend de Node con Express y MongoDB",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node backend/sever.js",
+    "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
   "author": "Brayan",
